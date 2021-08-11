@@ -1,0 +1,17 @@
+[
+    {
+        "title": "SQLアンチパターンに次ぐ良本",
+        "comment": "comment",
+        "good": 0
+    },
+    {
+        "title": "next comment",
+        "comment": "next commnet",
+        "good": 0
+    },
+    {
+        "title": "やっぱりカエルが可愛い",
+        "comment": "オライリーの表紙を飾る動物はやっぱりカエルに限るね",
+        "good": 0
+    }
+]
