@@ -1,0 +1,7 @@
+[
+    {
+        "title": "こんなことが書かれている 1、HTTPの歴史",
+        "comment": "HTTP/0.9\r\n検索のリクエスト（GET）しかできない\r\nヘッダー、ステータスコード無し\r\nレスポンスはHTMLドキュメントのみ\r\nHTTP/1.0\r\nリクエスト時にメソッドが追加された（GET）\r\nリクエスト時にHTTPバージョンが追加された（HTTP/1.0）\r\nヘッダーが追加された（Host, User-Agent, Accept）\r\nHTTP/1.1\r\nkeep-alive\r\nServerとのコネクションを接続したままにして再利用する\r\nTLSへの対応\r\nPUTとDELETEメソッドの標準化\r\nHTTP/2.0\r\nストリームによる通信の並列化\r\nヘッダの圧縮\r\n",
+        "good": 0
+    }
+]
